@@ -20,6 +20,7 @@ import org.openftc.easyopencv.OpenCvCameraRotation;
 
 @Autonomous(name="Red Team Prop")
 
+// We need to organize this code by reorganizing the code and adding more comments.
 
 public class redDetect extends LinearOpMode {
     private OpenCvCamera webcam;
